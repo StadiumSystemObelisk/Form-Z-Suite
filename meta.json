@@ -1,0 +1,23 @@
+{
+  "repo": "form-z-suite",
+  "product": "Form Z Suite",
+  "kind": "cad",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "engineering-cad",
+  "topics": [
+    "form-z",
+    "form-windows",
+    "engineering-cad-desktop",
+    "how-to-install-form",
+    "form-z-desktop-package",
+    "form-workspace",
+    "form-z-pro-tools",
+    "form-suite",
+    "zentool-form",
+    "form-z-tool-9"
+  ],
+  "site": "zentool.art"
+}
